@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "vscode-javadebug-sample",
+                "projectName": "vscode-javadebug-sample",
+                "workingDirectory": "d:\\Palestras\\Ignite\\java\\vscode-javadebug-sample",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "vscode-javadebug-sample",
+                "projectName": "vscode-javadebug-sample",
+                "workingDirectory": "d:\\Palestras\\Ignite\\java\\vscode-javadebug-sample",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

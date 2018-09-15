@@ -1,0 +1,13 @@
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\libhostpolicy.so
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\libhostfxr.so
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\Core
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\Core.deps.json
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\Core.runtimeconfig.json
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\Core.runtimeconfig.dev.json
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\Core.dll
+D:\Treinamento\Workshop\Core\bin\release\netcoreapp2.0\ubuntu-x64\Core.pdb
+D:\Treinamento\Workshop\Core\obj\release\netcoreapp2.0\ubuntu-x64\Core.csproj.CoreCompileInputs.cache
+D:\Treinamento\Workshop\Core\obj\release\netcoreapp2.0\ubuntu-x64\Core.AssemblyInfoInputs.cache
+D:\Treinamento\Workshop\Core\obj\release\netcoreapp2.0\ubuntu-x64\Core.AssemblyInfo.cs
+D:\Treinamento\Workshop\Core\obj\release\netcoreapp2.0\ubuntu-x64\Core.dll
+D:\Treinamento\Workshop\Core\obj\release\netcoreapp2.0\ubuntu-x64\Core.pdb

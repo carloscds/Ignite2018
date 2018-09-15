@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "type": "java",
+            "cwd": "${fileDirname}",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "startupClass": "${fileBasename}",
+            "preLaunchTask": "compileJava"
+        }
+    ]
+}
