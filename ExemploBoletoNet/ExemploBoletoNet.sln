@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploBoletoNet", "ExemploBoletoNet\ExemploBoletoNet.csproj", "{565AC8A9-D271-4B54-BCDA-1DBC36EB73E4}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "DependencyValidation1", "DependencyValidation1\DependencyValidation1.modelproj", "{0ED9443C-5087-4280-ADC5-1927F8924C4E}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565AC8A9-D271-4B54-BCDA-1DBC36EB73E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565AC8A9-D271-4B54-BCDA-1DBC36EB73E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565AC8A9-D271-4B54-BCDA-1DBC36EB73E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565AC8A9-D271-4B54-BCDA-1DBC36EB73E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED9443C-5087-4280-ADC5-1927F8924C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED9443C-5087-4280-ADC5-1927F8924C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED9443C-5087-4280-ADC5-1927F8924C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED9443C-5087-4280-ADC5-1927F8924C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C8ED21-FE96-4E3E-ADFB-AA43B2530A26}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
