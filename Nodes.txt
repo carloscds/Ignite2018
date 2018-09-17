@@ -1,0 +1,7 @@
+Extensions:
+Gi
+Git Lens
+Git History
+Live Server
+Rest Client
+Past Json as Code
