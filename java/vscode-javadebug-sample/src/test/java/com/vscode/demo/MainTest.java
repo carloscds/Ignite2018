@@ -17,7 +17,25 @@ class MainTest {
     void testMain() {
 
         // arrange
-        final List<String> list = Arrays.asList("React", "Angular", "Vue");
+        final List<String> list = Arrays.asList("React", "Angular", "VSCode");
+
+        // act
+        final String actual = list.stream()
+            .filter(x -> Objects.equals(x, "VSCode"))
+            .findFirst()
+            .orElseThrow(IllegalArgumentException::new);
+
+        // assert
+        assertEquals("VSCode", actual, () -> "Main Succeed");
+    }
+
+    
+    @Test
+    @DisplayName("VS Code JUnit 5 test")
+    void testCount() {
+
+        // arrange
+        final List<String> list = Arrays.asList("React", "Angular", "VSCode");
 
         // act
         final String actual = list.stream()
@@ -31,15 +49,15 @@ class MainTest {
 
     
     @Test
-    @DisplayName("VS Code JUnit 5 test")
-    void testCount() {
+    @DisplayName("VS Code test not passing")
+    void testNotPassing() {
 
         // arrange
-        final List<String> list = Arrays.asList("React", "Angular", "Vue");
+        final List<String> list = Arrays.asList("React", "Angular", "VSCode");
 
         // act
         final String actual = list.stream()
-            .filter(x -> Objects.equals(x, "React"))
+            .filter(x -> Objects.equals(x, "VSCode"))
             .findFirst()
             .orElseThrow(IllegalArgumentException::new);
 
