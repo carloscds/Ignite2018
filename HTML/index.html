@@ -1,6 +1,19 @@
 <html>
-<title>Ignite Sample</title>
 <body>
-<h1>Demo</h1>
+
+<h2>Debug Sample</h2>
+
+<p id="demo">JavaScript chaing HTML</p>
+
+<button type="button" onclick='ChangeText()'>Click to Change!</button>
+
 </body>
+
+<script>
+    function ChangeText() {
+       newText = "Changed";
+       document.getElementById("demo").innerHTML = newText
+    }
+</script>
+
 </html>
