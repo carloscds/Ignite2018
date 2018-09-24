@@ -1,3 +1,4 @@
 FROM php:7.0-apache
-EXPOSE 8080
+LABEL name="phpignite"
+EXPOSE 80
 COPY . /var/www/html/
