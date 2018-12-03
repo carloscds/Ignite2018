@@ -67,11 +67,6 @@
       <ProjName>ExemploBoletoNet</ProjName>
     </ProjBinary>
   </Binaries>
-  <Reports>
-    <Report>
-      <Path>ExemploBoletoNet180921.vspx</Path>
-    </Report>
-  </Reports>
   <Launches>
     <ProjBinary>
       <Path>:PB:{565AC8A9-D271-4B54-BCDA-1DBC36EB73E4}|ExemploBoletoNet\ExemploBoletoNet.csproj</Path>

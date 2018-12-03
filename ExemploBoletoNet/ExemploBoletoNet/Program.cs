@@ -22,10 +22,13 @@ namespace ExemploBoletoNet
             var enderecoCedente = new Endereco();
             enderecoCedente.Bairro = "Testando / " + i.ToString();
             enderecoCedente.End = "SSS 154 Bloco J Casa 23 / " + i.ToString();
-            enderecoCedente.Cidade = "Testelândia / " + i.ToString();
-            enderecoCedente.CEP = "70000000";
-            enderecoCedente.UF = "DF";
+            enderecoCedente.Cidade = "Cornelio Procopio / " + i.ToString();
+            enderecoCedente.CEP = "86300000";
+            enderecoCedente.UF = "PR";
             boleto.Cedente.Endereco = enderecoCedente;
+
+            boleto.Cedente.Instrucoes.Add(new Instrucao(237) { Descricao = "Instrucao para caixa" });
+            boleto.Cedente.Instrucoes.Add(new Instrucao(237) { Descricao = "Instrucao para caixa linha 2" });
 
             var sacado = new Sacado("000.000.000-00", "Fulano de Tal 1/ " + i.ToString());
             var endereco = new Endereco();
