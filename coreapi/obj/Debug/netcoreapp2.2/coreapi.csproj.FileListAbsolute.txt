@@ -1,0 +1,14 @@
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\bin\Debug\netcoreapp2.2\coreapi.deps.json
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\bin\Debug\netcoreapp2.2\coreapi.runtimeconfig.json
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\bin\Debug\netcoreapp2.2\coreapi.runtimeconfig.dev.json
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\bin\Debug\netcoreapp2.2\coreapi.dll
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\bin\Debug\netcoreapp2.2\coreapi.pdb
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.csprojAssemblyReference.cache
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.csproj.CoreCompileInputs.cache
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.RazorAssemblyInfo.cache
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.RazorAssemblyInfo.cs
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.AssemblyInfoInputs.cache
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.AssemblyInfo.cs
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.RazorTargetAssemblyInfo.cache
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.dll
+D:\cds\git\GitHub\carloscds\Ignite2018\coreapi\obj\Debug\netcoreapp2.2\coreapi.pdb
